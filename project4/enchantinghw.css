@@ -1,0 +1,44 @@
+h1{
+    color:#830DF2;/*purple*/
+}
+h2{
+    color:rgb(245, 53, 170);/*neon pink*/
+}
+ul{
+    color:rgba(8, 131, 219, 0.5);/*semi-transparent light blue*/
+}
+h3{
+    color:hsl(325, 91%, 25%);/*berry*/
+}
+div{
+   background-color:hsla(283, 75%, 29%, 0.743)/*soft purple*/
+}
+body{
+    background-color: rgba(5, 4, 4, 0.932);
+}
+footer{
+    color:deeppink;
+}
+/* Color Styles */
+h1{
+        font-family: "Petit Formal Script", cursive;
+        font-weight: 800;
+        font-style: normal;
+      }
+      body{
+        font-family: "Rochester", cursive;
+        font-weight: 600;
+        font-style: normal;
+      }
+          
+/* Font Styles */
+h1{
+    font-size: 40px;
+}
+h2{ 
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+/* Font Size */
